@@ -16,19 +16,24 @@ ul{
 	text-align:center;
 	list-style-type:none;
 	font-weight:bold;
+	font-size:20px;
+}
+li.sg{
+	font-weight:normal;
 }
 h1:hover{
 	color:purple;
+	text-decoration:underline;
 }
 div{
-	background-color:#fff2cf;
+	background-color:#f0fccf;
 	
 }
 table{
 	border:1px solid black;
-	border-collapse:separate;
-	border-spacing: 5px 8px;
+	text-align:center;
 }
 td{
 	border:1px solid black;
+	font-family:gotham;
 }
